@@ -8,7 +8,9 @@
 1. Input the square matrix
     ex: 3 
 2. Augment the matrix
-    ex: A[1][1]: 5
+    ex: 
+        
+        A[1][1]: 5
     
         A[1][2]: 7
         
