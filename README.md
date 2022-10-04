@@ -40,4 +40,6 @@
       X3 = 1.36778
 
 ## Instructions
-  * Clone the file and run in the terminal.
+  * Clone the file
+  * Run in MS visual Studio Code
+  * Make sure to have correct dependiences installed (GCC / C/C++)
