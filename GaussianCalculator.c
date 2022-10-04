@@ -1,7 +1,8 @@
 #include<stdio.h>
 #include<stdlib.h>
+// Puzzle challenge to create a Gauss-Jordan calculator to find inverse matrices
 // Gaussian calculator solver for Matrix Algebra 350
-
+// Algorithm design 
 int main()
 {
 	float **input,**Inverse,localVariable;
