@@ -1,4 +1,5 @@
 # Guass-Jordan Calculator  
+  * Puzzle to solve any square matrix using Reduce row Echelon
   * Written in C
   * Reduce-row echelon
 
