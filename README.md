@@ -3,7 +3,7 @@
   * Written in C
   * Reduce-row echelon
 
-## Instructions
+## Output
   
 1. Input the square matrix
     ex: 3 
@@ -38,3 +38,6 @@
       X1 = 0.2006075
       X2 = -0.01597
       X3 = 1.36778
+
+## Instructions
+  * Clone the file and run in the terminal.
